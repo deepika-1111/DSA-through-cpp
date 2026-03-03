@@ -9,11 +9,11 @@ int main(){
     cout<<"a/b="<<(a/b)<<endl;//division(result:quotient)
     cout<<"a%b="<<(a%b)<<endl;//modulo(result:remainder)
     //Relational operators
-    cout<<"a>b? : "<<(a>b)<<endl;//0
-    cout<<"a<b? : "<<(a<b)<<endl;//1
+    cout<<"a>b? : "<<(a>b)<<endl;//1
+    cout<<"a<b? : "<<(a<b)<<endl;//0
     cout<<"a==b? : "<<(a==b)<<endl;//0
-    cout<<"a>=b? : "<<(a>=b)<<endl;//0
-    cout<<"a<=b? : "<<(a<=b)<<endl;//1
+    cout<<"a>=b? : "<<(a>=b)<<endl;//1
+    cout<<"a<=b? : "<<(a<=b)<<endl;//0
     cout<<"a!=b? : "<<(a!=b)<<endl;//1
     //logical operators
     cout<<"a>b and a==b? : "<<(a>b && a==b)<<endl; //&& logical and

@@ -8,9 +8,9 @@ int main(){
     cout<<(a&b)<<endl;
     //bitwise XOR
     cout<<(a^b)<<endl;
-    //left shift
-    cout<<(a>>1)<<endl;
     //right shift
+    cout<<(a>>1)<<endl;
+    //left shift
     cout<<(a<<1)<<endl;
     return 0;
 }
